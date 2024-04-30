@@ -10,3 +10,5 @@ Web-UIのInstall from URLからインストールした後、再起動して下�
 # How to Use/使い方
 After installing and restarting, an option called Enable clip-skip in SDXL will appear in Settings. By checking the box for Enable the option to set clip skip setting for the small clip model in SDXL, it will be activated.  
 インストールして再起動すると、SettingsにEnable clip-skip in SDXLという項目が現れます。Enable the option to set clip skip setting for the small clip model in SDXLにチェックを入れ保存すると有効化します。
+
+Thanks to [Github user hako-mikan](https://github.com/hako-mikan) for [sd-webui-prevent-artifact](https://github.com/hako-mikan/sd-webui-prevent-artifact) which I used as template for making this and also added the Japanese language parts from it.
