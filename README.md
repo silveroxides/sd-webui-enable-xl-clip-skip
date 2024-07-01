@@ -1,3 +1,5 @@
+### Extension no longer relevant. PR for the functionality made to dev branch: https://github.com/AUTOMATIC1111/stable-diffusion-webui/pull/15992
+
 # Enable Clip Skip in SDXL
 
 This is an auxiliary script for the Stable Diffusion Web-UI. It enables the option to specify clip skip settings for the small CLIP model in SDXL.
